@@ -4,13 +4,14 @@ This project combines **Python data preparation** and **Tableau visualization**
 to explore how **Netflix’s global content catalog** has evolved across genres, ratings, and countries.
 
 It provides insights into Netflix’s production trends and international content distribution, all in an interactive dashboard.
+
 ---
 
 ## Project Overview
 
 The dataset includes detailed information about **Netflix Movies and TV Shows**,  
 covering **title, genre, release year, country, and age rating**.
-
+fff
 The dashboard allows users to:
 - Identify the **most popular genres** for both Movies and TV Shows  
 - Track **release trends over time**  
