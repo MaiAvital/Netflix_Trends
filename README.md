@@ -24,7 +24,6 @@ The dashboard allows users to:
 - **Python** — Data cleaning and preprocessing  
 - **Pandas** — Handling and transforming CSV files  
 - **Tableau** — Building the interactive dashboard and visual analysis  
-- **CSV** — Data export and integration into Tableau  
 
 ---
 
