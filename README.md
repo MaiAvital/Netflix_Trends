@@ -12,18 +12,22 @@ It provides insights into Netflix’s production trends and international conten
 The dataset includes detailed information about **Netflix Movies and TV Shows**,  
 covering **title, genre, release year, country, and age rating**.
 fff
-The dashboard allows users to:
-- Identify the **most popular genres** for both Movies and TV Shows  
-- Track **release trends over time**  
-- Analyze **age rating distribution**  
-- View **content availability by country** on an interactive world map  
+The final dashboard provides a global view of Netflix’s catalog through five main visualizations:
+
+- **Releases Over Time** — Compare yearly trends for Movies vs TV Shows  
+- **Content by Country** — World map showing production distribution  
+- **Top Genres (Movies & TV Shows)** — Treemaps revealing Netflix’s focus on content  
+- **Age Rating Distribution** — Bar chart showing Netflix’s main audience 
+- **Content Breakdown** — Pie chart comparing the overall share of Movies vs TV Shows  
+
 
 ---
 
 ## Technologies Used
-- **Python** — Data cleaning and preprocessing  
-- **Pandas** — Handling and transforming CSV files  
-- **Tableau** — Building the interactive dashboard and visual analysis  
+- **Python** - Data cleaning and preprocessing  
+- **Pandas** - Handling and transforming CSV files  
+- **Tableau** - Building the interactive dashboard and visual analysis
+- **CSV Dataset:** [Netflix Movies and TV Shows – Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ---
 
