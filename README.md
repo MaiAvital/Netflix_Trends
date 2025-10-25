@@ -39,5 +39,8 @@ The final dashboard provides a global view of Netflix’s catalog through five m
 
 ---
 
+## Dashboard Preview
+
+![Netflix Dashboard](netflix_trends_dashboard.png)
 
 
