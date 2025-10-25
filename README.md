@@ -14,11 +14,11 @@ covering **title, genre, release year, country, and age rating**.
 fff
 The final dashboard provides a global view of Netflix’s catalog through five main visualizations:
 
-- **Releases Over Time** — Compare yearly trends for Movies vs TV Shows  
-- **Content by Country** — World map showing production distribution  
-- **Top Genres (Movies & TV Shows)** — Treemaps revealing Netflix’s focus on content  
-- **Age Rating Distribution** — Bar chart showing Netflix’s main audience 
-- **Content Breakdown** — Pie chart comparing the overall share of Movies vs TV Shows  
+- **Releases Over Time** - Compare yearly trends for Movies vs TV Shows  
+- **Content by Country** - World map showing production distribution  
+- **Top Genres (Movies & TV Shows)** - Treemaps revealing Netflix’s focus on content  
+- **Age Rating Distribution** - Bar chart showing Netflix’s main audience 
+- **Content Breakdown** - Pie chart comparing the overall share of Movies vs TV Shows  
 
 
 ---
@@ -40,7 +40,4 @@ The final dashboard provides a global view of Netflix’s catalog through five m
 ---
 
 
-## Dashboard Preview
-
-![Netflix Dashboard](netflix_trends_dashboard.png)
 
